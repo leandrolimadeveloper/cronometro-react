@@ -1,1 +1,0 @@
-# cronometro-react
