@@ -8,7 +8,7 @@ Projeto de um cronômetro desenvolvido no curso 'React Js do zero ao avançado n
 Documentação do React: https://pt-br.reactjs.org/docs/getting-started.html
 ```
 
-$ git clone https://github.com/leandrolimadeveloper/Cronometro-React.git 
+$ git clone https://github.com/leandrolimadeveloper/cronometro-react.git 
 $ cd cronometro-react
 $ npm start
 
