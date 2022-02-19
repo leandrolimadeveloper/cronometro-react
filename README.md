@@ -10,6 +10,7 @@ Documentação do React: https://pt-br.reactjs.org/docs/getting-started.html
 
 $ git clone https://github.com/leandrolimadeveloper/cronometro-react.git 
 $ cd cronometro-react
+$ npm i
 $ npm start
 
 ```
