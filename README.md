@@ -1,6 +1,6 @@
 # Cronômetro-React
 
-Projeto de um crônometro desenvolvido no curso 'React Js do zero ao avançado na prática', do instrutor Matheus Fraga, na Udemy.
+Projeto de um cronômetro desenvolvido no curso 'React Js do zero ao avançado na prática', do instrutor Matheus Fraga, na Udemy.
 
 ## Executar 
 É necessário ter a biblioteca React instalada. 
