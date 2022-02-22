@@ -15,7 +15,7 @@ $ npm start
 
 ```
 
-Se não carregar automaticamente a janela da aplicação após iniciado o servidor de desenvolvimento, execute no navegador:
+Se não carregar automaticamente a janela da aplicação após iniciado o servidor de desenvolvimento, acesse o seguinte endereço no navegador:
 [http://localhost:3000](http://localhost:3000)
 
 ![Cronometro](https://user-images.githubusercontent.com/76854209/154800940-0fb7b3eb-19f0-43fb-9918-95cb9cc8ec84.jpg)
